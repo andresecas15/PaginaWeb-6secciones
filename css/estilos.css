@@ -154,7 +154,7 @@ header label{
 
 
 /*RESPONSIVE*/
-@media(max-width:670px){
+@media(max-width:1300px){
     html{
         font-size: 50%;
     }
